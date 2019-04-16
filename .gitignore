@@ -9,3 +9,4 @@ build/
 /out
 /.nb-gradle/
 node_modules
+/bin/
